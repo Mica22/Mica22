@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mica22
+- 👋 Hi, I’m soso
 - 👀 I’m interested in learning and rewriting coding
 - 🌱 I’m currently learning any language i come accross
 - 💞️ I’m looking to collaborate on projects and web designing
